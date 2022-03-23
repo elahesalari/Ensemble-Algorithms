@@ -1,5 +1,5 @@
 # Ensemble-Algorithms
-Implement two ensemble algorithmsو Bagging and AdaBoost.M1.
+Implement two ensemble algorithms, <b>Bagging and AdaBoost.M1.</b>
 
 As you know these algorithms need base classifiers, for example decision trees. You need to use
 sklearn.tree.DecisionTreeClassifier(…) classifier of Scikitlearn package as the base learner of you 
